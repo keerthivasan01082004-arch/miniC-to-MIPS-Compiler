@@ -1,5 +1,5 @@
-miniC->MIPS Compiler Project
-====================
+miniC-to-MIPS Compiler
+=====================
 
 This is a toy compiler that I am working on. It is written in C++. It uses the following libraries:
 
